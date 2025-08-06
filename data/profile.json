@@ -1,0 +1,55 @@
+{
+  "name": "Felipe Ribeiro",
+  "photo": "https://avatars.githubusercontent.com/u/152215387?v=4",
+  "job": "Autônomo e Estudante de Ciências da Computação",
+  "location": "Fortaleza - CE",
+  "phone": "(85) 996710315",
+  "email": "feliperibeiroclementino@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": ["Português BR", "Inglês (intermediário)"],
+  "portfolio": [
+    {
+      "name": "Jogo de Jo-Ken-Po com temática de Yu-Gi-Oh feito no Bootcamp da DIO",
+      "url": "https://github.com/FelipeRibeiroC/trilha-js-yugioh-game",
+      "github": true
+    },
+    {
+      "name": "Pagina de Portifólio criada no Bootcamp da DIO",
+      "url": "https://github.com/FelipeRibeiroC/portifolio-dio-lab",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Mercadinho e Peixaria Clementino",
+      "period": "2015 - até o momento",
+      "description": "Trabalho diariamente com atendimento ao publico o que me proporciona aumentar minha experiência com trabalho em equipe e atendimento ao cliente."
+    },
+    {
+      "name": "Contato e Divulgação / LBV",
+      "period": "2011 - 2012",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas que passam pelos projetos da LBV."
+    }
+  ]
+}
